@@ -8,7 +8,7 @@
 
 <h6><a>Proposta do exercício</a></h6>
 <p align="center">
-<img src="imgs/proposta.png"/> 
+<img src="imgs/Proposta.png"/> 
 </p>
 
 <h6><a>Como executar</a></h6>
